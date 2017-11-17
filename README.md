@@ -1,2 +1,7 @@
-# stack-overflow
-i guess this is the easiest stack overflow code
+#include <stdio.h>
+int main()
+{
+printf("kenny is my name");
+main();
+return 0;
+}
